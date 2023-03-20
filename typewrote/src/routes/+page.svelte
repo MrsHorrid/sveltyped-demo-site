@@ -42,7 +42,7 @@
 
 		<h2>Shaked Lanciano</h2>
 		<p>junior front end developer.</p>
-		<p>Email: shakedlanciano@gmail.com</p>
+		<p>Email:shakedlanciano@gmail.com</p>
 	</div>
 </div>
 
